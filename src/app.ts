@@ -11,7 +11,7 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.json({
     success: true,
-    message: 'Assignment-3 server is running',
+    message: 'Assignment-4 server is running',
   });
 });
 
